@@ -16,28 +16,11 @@ This project demonstrates modern web development skills by creating a profession
 
 ## How to Run the Project
 
-### Option 1: Direct Browser Opening
 1. Download all project files (`index.html`, `style.css`, `script.js`)
 2. Open `index.html` in your web browser
 3. The website will load immediately
 
-### Option 2: Local Server (Recommended)
-```bash
-# Using Python 3
-python -m http.server 8000
-
-# Using Node.js
-npx http-server
-
-# Using PHP
-php -S localhost:8000
-```
-Then open `http://localhost:8000` in your browser.
-
-### Option 3: Deploy Online
-- **GitHub Pages**: Upload to repository and enable Pages in settings
-- **Netlify**: Drag and drop project folder
-- **Vercel**: Import from GitHub or drag and drop
+That's it! No additional setup or installation required.
 
 ## Features
 
