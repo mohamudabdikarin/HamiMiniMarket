@@ -32,7 +32,7 @@ That's it! No additional setup or installation required.
 
 ## Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-black?style=for-the-badge&logo=vercel)](hami-market.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-black?style=for-the-badge&logo=vercel)](https://hami-market.vercel.app/)
 
 
 ---
