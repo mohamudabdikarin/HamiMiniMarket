@@ -32,7 +32,7 @@ That's it! No additional setup or installation required.
 
 ## Live Demo
 
-[View Live Demo](hami-market.vercel.app)
+[View Live Demo](hami-market.vercel.app) -
 
 ---
 
